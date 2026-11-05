@@ -1,0 +1,6 @@
+set(__QT_DEPLOY_TARGETS "scene_core;WatermelonScene")
+set(__QT_DEPLOY_TARGET_scene_core_FILE C:/Users/shchi/OneDrive/Desktop/WatermelonScene_Lab5_Variant22/build/Desktop_Debug/libscene_core.a)
+set(__QT_DEPLOY_TARGET_scene_core_TYPE STATIC_LIBRARY)
+set(__QT_DEPLOY_TARGET_WatermelonScene_FILE C:/Users/shchi/OneDrive/Desktop/WatermelonScene_Lab5_Variant22/build/Desktop_Debug/WatermelonScene.exe)
+set(__QT_DEPLOY_TARGET_WatermelonScene_TYPE EXECUTABLE)
+set(__QT_DEPLOY_TARGET_WatermelonScene_RUNTIME_DLLS C:/msys64/ucrt64/bin/Qt6Widgets.dll;C:/msys64/ucrt64/bin/Qt6Gui.dll;C:/msys64/ucrt64/bin/Qt6Core.dll)

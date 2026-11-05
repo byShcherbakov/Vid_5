@@ -1,0 +1,8 @@
+C:/Users/shchi/OneDrive/Desktop/WatermelonScene_Lab5_Variant22/build/Desktop_Debug/CMakeFiles/scene_core.dir
+C:/Users/shchi/OneDrive/Desktop/WatermelonScene_Lab5_Variant22/build/Desktop_Debug/CMakeFiles/WatermelonScene.dir
+C:/Users/shchi/OneDrive/Desktop/WatermelonScene_Lab5_Variant22/build/Desktop_Debug/CMakeFiles/edit_cache.dir
+C:/Users/shchi/OneDrive/Desktop/WatermelonScene_Lab5_Variant22/build/Desktop_Debug/CMakeFiles/rebuild_cache.dir
+C:/Users/shchi/OneDrive/Desktop/WatermelonScene_Lab5_Variant22/build/Desktop_Debug/CMakeFiles/scene_core_autogen_timestamp_deps.dir
+C:/Users/shchi/OneDrive/Desktop/WatermelonScene_Lab5_Variant22/build/Desktop_Debug/CMakeFiles/scene_core_autogen.dir
+C:/Users/shchi/OneDrive/Desktop/WatermelonScene_Lab5_Variant22/build/Desktop_Debug/CMakeFiles/WatermelonScene_autogen_timestamp_deps.dir
+C:/Users/shchi/OneDrive/Desktop/WatermelonScene_Lab5_Variant22/build/Desktop_Debug/CMakeFiles/WatermelonScene_autogen.dir

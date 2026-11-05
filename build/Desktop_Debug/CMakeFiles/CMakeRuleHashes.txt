@@ -1,0 +1,5 @@
+# Hashes of file build rules.
+a61fdfea4e148bef378c194e3c71b911 CMakeFiles/WatermelonScene_autogen
+a61fdfea4e148bef378c194e3c71b911 CMakeFiles/scene_core_autogen
+44f17579a6297165b8286ada870e3718 WatermelonScene_autogen/timestamp
+fae05032bdbdb638e0658e30b6debb33 scene_core_autogen/timestamp
